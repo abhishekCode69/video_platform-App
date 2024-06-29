@@ -21,6 +21,7 @@ const RootLayout = () => {
     "Poppins-Thin": require("../assets/fonts/Poppins-Thin.ttf"),
   });
 
+
   useEffect(() => {
     if (error) throw error;
 
